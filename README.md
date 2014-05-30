@@ -1,2 +1,21 @@
+## moveit_simple_grasps (hydro) - 1.0.1-0
+
+The packages in the `moveit_simple_grasps` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro moveit_simple_grasps --edit` on `Fri, 30 May 2014 11:43:18 -0000`
+
+The `moveit_simple_grasps` package was released.
+
+Version of package(s) in repository `moveit_simple_grasps`:
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 moveit_simple_grasps-release
 ============================
