@@ -1,0 +1,12 @@
+Source: ros-hydro-moveit-simple-grasps
+Section: misc
+Priority: extra
+Maintainer: Dave Coleman <davetcoleman@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-actionlib, ros-hydro-actionlib-msgs, ros-hydro-catkin, ros-hydro-cmake-modules, ros-hydro-eigen-conversions, ros-hydro-geometry-msgs, ros-hydro-message-generation, ros-hydro-moveit-core, ros-hydro-moveit-msgs, ros-hydro-moveit-ros-planning, ros-hydro-moveit-ros-planning-interface, ros-hydro-moveit-visual-tools, ros-hydro-roscpp, ros-hydro-std-msgs, ros-hydro-tf, ros-hydro-tf-conversions, ros-hydro-trajectory-msgs
+Homepage: https://github.com/davetcoleman/simple_grasps/
+Standards-Version: 3.9.2
+
+Package: ros-hydro-moveit-simple-grasps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-actionlib-msgs, ros-hydro-geometry-msgs, ros-hydro-message-runtime, ros-hydro-moveit-msgs, ros-hydro-moveit-visual-tools, ros-hydro-std-msgs, ros-hydro-trajectory-msgs
+Description: A basic grasp generator for simple objects such as blocks or cylinders for use with the MoveIt! pick and place pipeline. Does not consider friction cones or other dynamics.
