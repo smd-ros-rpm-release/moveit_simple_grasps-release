@@ -1,3 +1,24 @@
+## moveit_simple_grasps (indigo) - 1.2.0-1
+
+The packages in the `moveit_simple_grasps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release moveit_simple_grasps -t indigo -r indigo --edit` on `Sat, 20 Sep 2014 00:44:32 -0000`
+
+The `moveit_simple_grasps` package was released.
+
+Version of package(s) in repository `moveit_simple_grasps`:
+- upstream repository: https://github.com/davetcoleman/moveit_simple_grasps.git
+- release repository: https://github.com/davetcoleman/moveit_simple_grasps-release.git
+- rosdistro version: `1.1.0-0`
+- old version: `1.2.0-0`
+- new version: `1.2.0-1`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## moveit_simple_grasps (indigo) - 1.2.0-0
 
 The packages in the `moveit_simple_grasps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release moveit_simple_grasps -t indigo -r indigo --edit` on `Fri, 19 Sep 2014 18:19:26 -0000`
