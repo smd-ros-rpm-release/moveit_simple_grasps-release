@@ -1,6 +1,6 @@
 <package>
   <name>moveit_simple_grasps</name>
-  <version>1.2.0</version>
+  <version>1.2.1</version>
   <description>
     A basic grasp generator for simple objects such as blocks or cylinders for use with the MoveIt! pick and place pipeline. 
     Does not consider friction cones or other dynamics.
@@ -9,9 +9,9 @@
 
   <license>BSD</license>
 
-  <url type="website">https://github.com/davetcoleman/simple_grasps/</url>
-  <url type="bugtracker">https://github.com/davetcoleman/simple_grasps/issues</url>
-  <url type="repository">https://github.com/davetcoleman/simple_grasps</url>
+  <url type="website">https://github.com/davetcoleman/moveit_simple_grasps/</url>
+  <url type="bugtracker">https://github.com/davetcoleman/moveit_simple_grasps/issues</url>
+  <url type="repository">https://github.com/davetcoleman/moveit_simple_grasps</url>
 
   <author email="davetcoleman@gmail.com">Dave Coleman</author>
 
